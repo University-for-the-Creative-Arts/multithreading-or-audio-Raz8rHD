@@ -13,3 +13,5 @@ I proceeded to build for both platforms and tested to see if they were working. 
 GitHub did not detect any changes made to my Unity project. So, I moved the entire folder into the cloned repository, but I had over 38,000 changes, which I was not allowed to commit since they exceeded the limit.
 One of my colleagues suggested adding a “.gitignore” file to my original repository, as this would ignore the unnecessary files and allow me to commit my project properly. After adding this file, my number of commits
 was reduced significantly, and I was able to commit and finish the task successfully.
+- https://github.com/user-attachments/assets/325f9577-8e5b-4f76-b190-ea43377d784c - Project
+
